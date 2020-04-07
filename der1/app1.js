@@ -1,0 +1,1 @@
+var family = new Array ['mohamed', 2020, 'hanan'];
